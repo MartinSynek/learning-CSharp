@@ -1,0 +1,7 @@
+C:\Users\marti\OneDrive\GitKraken\Project\Zaklady\Zaklady\Zaklady\bin\Debug\Zaklady.exe.config
+C:\Users\marti\OneDrive\GitKraken\Project\Zaklady\Zaklady\Zaklady\bin\Debug\Zaklady.exe
+C:\Users\marti\OneDrive\GitKraken\Project\Zaklady\Zaklady\Zaklady\bin\Debug\Zaklady.pdb
+C:\Users\marti\OneDrive\GitKraken\Project\Zaklady\Zaklady\Zaklady\obj\Debug\Zaklady.csprojAssemblyReference.cache
+C:\Users\marti\OneDrive\GitKraken\Project\Zaklady\Zaklady\Zaklady\obj\Debug\Zaklady.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\GitKraken\Project\Zaklady\Zaklady\Zaklady\obj\Debug\Zaklady.exe
+C:\Users\marti\OneDrive\GitKraken\Project\Zaklady\Zaklady\Zaklady\obj\Debug\Zaklady.pdb
